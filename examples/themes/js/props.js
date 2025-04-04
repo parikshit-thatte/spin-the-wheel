@@ -170,53 +170,59 @@ export const props = [
     overlayImage: './img/example-2-overlay.svg',
     items: [
       {
-        label: 'Action',
+        label: 'Abhishek Jain'
       },
       {
-        label: 'Horror',
+        label: 'Arsalan Khan'
       },
       {
-        label: 'Science Fict.',
+        label: 'Ashish Gupta'
       },
       {
-        label: 'Comedy',
+        label: 'Bhavika Tibrewal'
       },
       {
-        label: 'Romance',
+        label: 'Darshan Chauhan'
       },
       {
-        label: 'Thriller',
+        label: 'Raja Junaid Mujtaba Khan'
       },
       {
-        label: 'Western',
+        label: 'Karthick S'
       },
       {
-        label: 'Indie',
+        label: 'Mayank Setia'
       },
       {
-        label: 'Crime',
+        label: 'Nimit Haria'
       },
       {
-        label: 'Documentary',
+        label: 'Pranay Jain'
       },
       {
-        label: 'Drama',
+        label: 'Pranshu Agrawal'
       },
       {
-        label: 'Musical',
+        label: 'Ravi Kanaujiya'
       },
       {
-        label: 'Mystery',
+        label: 'Rishika Sood'
       },
       {
-        label: 'War',
+        label: 'Sarthik Bhat'
       },
       {
-        label: 'Sports',
+        label: 'Shagun Marotiya'
       },
       {
-        label: 'Fantasy',
+        label: 'Shubhjot Singh'
       },
+      {
+        label: 'Teja Chitturi'
+      },
+      {
+        label: 'Vivek Lokhande'
+      }
     ],
   },
 
